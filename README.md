@@ -1,11 +1,12 @@
-# Hi, I'm Jeremy 👋
+# thrtysxty 👋
 
-**AI Systems Builder · Systems & Protocols Engineer · Open Source Developer**  
+**Systems Architecture · Protocols Engineering · Applied AI**  
 *Building agentic developer tools, local-first systems, and hardware interfaces.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-thrtysxty.com-6366f1?style=flat)](https://thrtysxty.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thrtysxty)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-thiessen-1314b720)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeremy.m.thiessen@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dev%40thrtysxty.com-4f46e5?style=flat)](mailto:dev@thrtysxty.com)
 
 ---
 
@@ -86,6 +87,7 @@
 
 ## 📬 Contact & Links
 
+- **Portfolio:** [thrtysxty.com](https://thrtysxty.com)
 - **GitHub:** [github.com/thrtysxty](https://github.com/thrtysxty)
-- **LinkedIn:** [linkedin.com/in/jeremy-thiessen-1314b720](https://www.linkedin.com/in/jeremy-thiessen-1314b720)
-- **Email:** [jeremy.m.thiessen@gmail.com](mailto:jeremy.m.thiessen@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jeremy-thiessen-1314b720](https://www.linkedin.com/in/jeremy-thiessen-1314b720) *(Professional & Employment History)*
+- **Email:** [dev@thrtysxty.com](mailto:dev@thrtysxty.com)
