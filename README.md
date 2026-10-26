@@ -4,6 +4,7 @@
 *Building agentic developer tools, local-first systems, and hardware interfaces.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thrtysxty)
+[![Website](https://img.shields.io/badge/Website-thrtysxty.com-4A154B?style=flat&logo=safari&logoColor=white)](https://thrtysxty.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-thiessen-1314b720)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeremy.m.thiessen@gmail.com)
 
@@ -86,6 +87,7 @@
 
 ## 📬 Contact & Links
 
+- **Website:** [thrtysxty.com](https://thrtysxty.com)
 - **GitHub:** [github.com/thrtysxty](https://github.com/thrtysxty)
 - **LinkedIn:** [linkedin.com/in/jeremy-thiessen-1314b720](https://www.linkedin.com/in/jeremy-thiessen-1314b720)
 - **Email:** [jeremy.m.thiessen@gmail.com](mailto:jeremy.m.thiessen@gmail.com)
